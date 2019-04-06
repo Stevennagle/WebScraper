@@ -29,6 +29,12 @@ named :
 
 
 
+//.gitignore :
+//-----------------------------------------------------------------------------
+// pip install -r requirements.txt 
+
+   https://github.com/kennethreitz/requests
+
 
 
 
@@ -41,27 +47,21 @@ named :
 
 
    New Technology Introduced(Personal Reference) : virtualenv & pip
-//----------------------------------------------------------------------------------
+   
+//-------------------------------------------------------------------------------
+// Git Bash for Windows CLI from folder:
+//-------------------------------------------------------------------------------
 
-3:43 Git Bash variation : 
+//#pip install virtualenv
 
-//# install pip install virtualenv [--user] 
+//#virtualenv bundleScraper
 
-//# create an env virtualenv myenv virtualenv -p /usr/local/bin/pypy myenv 
+//#source bundleScraper/Scripts/activate
 
-//# using the pypy distribution 
+//#deactive
 
-//# use the env source myenv/bin/activate 
-
-//# exit the env deactive 
-
-//# which is usable only after you activate the env 
-
-http://libzx.so/main/learning/2016/03/13/best-practice-for-virtualenv-and-git-repos.html
+Ref : https://www.youtube.com/watch?v=N5vscPTWKOk
 
 
 
 
-// Windows; Git-Bash
-// virtualenv bundleScraper
-// source bundleScraper/Scripts/activate
