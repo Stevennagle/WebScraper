@@ -1,6 +1,6 @@
 #BundleScraper
 
-Related tutorial : https://youtu.be/ng2o98k983k
+Related tutorial by Corey Schafer : https://youtu.be/ng2o98k983k
 
 Related Python sites :
 (Python >=3.4 includes pip)
