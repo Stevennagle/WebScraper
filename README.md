@@ -2,7 +2,7 @@
 
 This is my first taste of web scraping. I'm looking forward to seeing what else can be accomplished with this and different ways of organizing the data locally once it has been collected.
 
-The program automatically generates a CSV if one with the same name does not already exist.
+The program automatically generates a CSV file if one with the same name does not already exist.
 
 =======================================================
 
