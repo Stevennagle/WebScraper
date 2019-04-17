@@ -1,4 +1,4 @@
-#BundleScraper
+#webScraper  -Project Completed
 
 This is my first taste of web scraping. I'm looking forward to seeing what else can be accomplished with this and different ways of organizing the data locally once it has been collected.
 
