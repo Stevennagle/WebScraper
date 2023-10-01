@@ -6,8 +6,8 @@ Related dependencies :
 	$ python -m pip install -U pip
 
 	$ pip install beautifulsoup4
-
-        $ pip install lxml	
+ 
+ 	$ pip install lxml	
 
 	$ pip install html5lib
 				
